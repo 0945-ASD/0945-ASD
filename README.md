@@ -42,29 +42,20 @@
 **Currently Learning & Practicing:**  
 `Linux` • `Jira` • `Notion` • `Docker` • `AWS`  
 
-
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChethaAtapattu&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChethaAtapattu&layout=compact&theme=tokyonight)  
-
 ---
 
 ## 🌱 Current Focus  
-- Completing **DevOps/Linux certifications** and applying skills in projects.  
-- Expanding **GitHub portfolio** with new features and open-source contributions.  
-- Growing **LinkedIn professional network** to connect with industry experts.  
+- Strengthening my **Java, PHP, and MySQL and the MERN stack** skills through hands-on projects.  
+- Expanding my GitHub portfolio with **JetVoyager, ShopX, UniSync, and Exam Core**.  
+- Exploring new tools like **Linux, Jira, Notion, Docker, and AWS** at my own pace.  
+- Growing my **LinkedIn professional network** to connect with industry experts.  
 
 ---
 
 ## 📫 Connect With Me  
 
-- 💼 [LinkedIn](#)  
-- 📧 chetha.atapattu@example.com  
+- 💼 [LinkedIn](www.linkedin.com/in/chetha-atapattu-aa82a2311)  
+- 📧 chethaatapattu@gmail.com  
 
 ---
 ✨ *“Technology is not just about solving problems — it’s about creating opportunities for growth, connection, and transformation.”*  
